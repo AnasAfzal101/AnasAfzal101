@@ -75,10 +75,6 @@ I'm building a business from $0, with clients around the world. I post every ste
 
 - **[Snake Game](https://github.com/AnasAfzal101/Snake_Game):** classic Snake in plain HTML, CSS and JavaScript
 
-## ✍️ Off the keyboard
-
-I write poetry and prose in Urdu.
-
 ---
 
 *Follow me here on GitHub to see each new demo and update as it lands.*
